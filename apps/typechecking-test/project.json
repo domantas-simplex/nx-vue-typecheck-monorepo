@@ -17,7 +17,7 @@
       "defaultConfiguration": "production",
       "options": {
         "outputPath": "dist/apps/typechecking-test",
-        "skipTypeCheck": true
+        "skipTypeCheck": false
       },
       "configurations": {
         "development": {
