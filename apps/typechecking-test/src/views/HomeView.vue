@@ -7,3 +7,7 @@ import NxWelcome from '../app/NxWelcome.vue';
     <NxWelcome />
   </main>
 </template>
+
+<script lang="ts" setup>
+const a: number = "aha";
+</script>
